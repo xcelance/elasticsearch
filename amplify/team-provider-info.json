@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "elasticserach-dev-20190705182909-authRole",
+            "UnauthRoleArn": "arn:aws:iam::384692513977:role/elasticserach-dev-20190705182909-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::384692513977:role/elasticserach-dev-20190705182909-authRole",
+            "Region": "ap-southeast-2",
+            "DeploymentBucketName": "elasticserach-dev-20190705182909-deployment",
+            "UnauthRoleName": "elasticserach-dev-20190705182909-unauthRole",
+            "StackName": "elasticserach-dev-20190705182909",
+            "StackId": "arn:aws:cloudformation:ap-southeast-2:384692513977:stack/elasticserach-dev-20190705182909/aeb494e0-9f24-11e9-8b69-0accf194060a"
+        },
+        "categories": {
+            "auth": {
+                "cognito05e8e01f": {}
+            }
+        }
+    }
+}

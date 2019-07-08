@@ -1,0 +1,10 @@
+AWS login access:
+
+https://384692513977.signin.aws.amazon.com/console ( link)
+User: anywaredev1
+Access key ID: AKIAVTELV5S437COSOVW
+Secret access key: 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
+Password: lot)THmXZPmU
+
+
+

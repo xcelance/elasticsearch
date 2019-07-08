@@ -1,0 +1,20 @@
+{
+    "appName": "elasticserach",
+    "roleName": "pinpointLambdaRole7e12bd2b",
+    "cloudWatchPolicyName": "cloudWatchPolicy7e12bd2b",
+    "pinpointPolicyName": "pinpointPolicy7e12bd2b",
+    "authPolicyName": "pinpoint_amplify_7e12bd2b",
+    "unauthPolicyName": "pinpoint_amplify_7e12bd2b",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "authRoleArn": {
+        "Fn::GetAtt": [
+            "AuthRole",
+            "Arn"
+        ]
+    }
+}
